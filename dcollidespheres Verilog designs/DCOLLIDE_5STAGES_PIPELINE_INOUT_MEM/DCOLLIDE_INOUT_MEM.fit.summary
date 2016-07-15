@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Jul 14 12:32:44 2016
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+Revision Name : DCOLLIDE_INOUT_MEM
+Top-level Entity Name : DCOLLIDE_INOUT_MEM
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 20,888 / 114,480 ( 18 % )
+    Total combinational functions : 17,178 / 114,480 ( 15 % )
+    Dedicated logic registers : 10,529 / 114,480 ( 9 % )
+Total registers : 10529
+Total pins : 112 / 529 ( 21 % )
+Total virtual pins : 0
+Total memory bits : 0 / 3,981,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 63 / 532 ( 12 % )
+Total PLLs : 0 / 4 ( 0 % )
