@@ -1,0 +1,24 @@
+g++ -DHAVE_CONFIG_H -I. -I../../ode/src  -I../../include -I../../include -DDRAWSTUFF_TEXTURE_PATH="\"/home/connor/Documents/ode-0.13/drawstuff/textures\"" -DdTRIMESH_ENABLED   -pg -MT uss_test1.o -MD -MP -MF .deps/uss_test1.Tpo -c -o uss_test1.o uss_test1.cpp
+mv -f .deps/uss_test1.Tpo .deps/uss_test1.Po
+/bin/bash ../../libtool  --tag=CXX   --mode=link g++  -pg     -o uss_test1 uss_test1.o ../../drawstuff/src/libdrawstuff.la ../../ode/src/libode.la -lGLU -lGL  -lm  -lpthread
+libtool: link: g++ -pg -o uss_test1 uss_test1.o  ../../drawstuff/src/.libs/libdrawstuff.a -lX11 ../../ode/src/.libs/libode.a -lGLU -lGL -lm -lpthread
+g++ -DHAVE_CONFIG_H -I. -I../../ode/src  -I../../include -I../../include -DDRAWSTUFF_TEXTURE_PATH="\"/home/connor/Documents/ode-0.13/drawstuff/textures\"" -DdTRIMESH_ENABLED   -pg -MT uss_test2.o -MD -MP -MF .deps/uss_test2.Tpo -c -o uss_test2.o uss_test2.cpp
+mv -f .deps/uss_test2.Tpo .deps/uss_test2.Po
+/bin/bash ../../libtool  --tag=CXX   --mode=link g++  -pg     -o uss_test2 uss_test2.o ../../drawstuff/src/libdrawstuff.la ../../ode/src/libode.la -lGLU -lGL  -lm  -lpthread
+libtool: link: g++ -pg -o uss_test2 uss_test2.o  ../../drawstuff/src/.libs/libdrawstuff.a -lX11 ../../ode/src/.libs/libode.a -lGLU -lGL -lm -lpthread
+g++ -DHAVE_CONFIG_H -I. -I../../ode/src  -I../../include -I../../include -DDRAWSTUFF_TEXTURE_PATH="\"/home/connor/Documents/ode-0.13/drawstuff/textures\"" -DdTRIMESH_ENABLED   -pg -MT uss_test3.o -MD -MP -MF .deps/uss_test3.Tpo -c -o uss_test3.o uss_test3.cpp
+mv -f .deps/uss_test3.Tpo .deps/uss_test3.Po
+/bin/bash ../../libtool  --tag=CXX   --mode=link g++  -pg     -o uss_test3 uss_test3.o ../../drawstuff/src/libdrawstuff.la ../../ode/src/libode.la -lGLU -lGL  -lm  -lpthread
+libtool: link: g++ -pg -o uss_test3 uss_test3.o  ../../drawstuff/src/.libs/libdrawstuff.a -lX11 ../../ode/src/.libs/libode.a -lGLU -lGL -lm -lpthread
+g++ -DHAVE_CONFIG_H -I. -I../../ode/src  -I../../include -I../../include -DDRAWSTUFF_TEXTURE_PATH="\"/home/connor/Documents/ode-0.13/drawstuff/textures\"" -DdTRIMESH_ENABLED   -pg -MT uss_test4.o -MD -MP -MF .deps/uss_test4.Tpo -c -o uss_test4.o uss_test4.cpp
+mv -f .deps/uss_test4.Tpo .deps/uss_test4.Po
+/bin/bash ../../libtool  --tag=CXX   --mode=link g++  -pg     -o uss_test4 uss_test4.o ../../drawstuff/src/libdrawstuff.la ../../ode/src/libode.la -lGLU -lGL  -lm  -lpthread
+libtool: link: g++ -pg -o uss_test4 uss_test4.o  ../../drawstuff/src/.libs/libdrawstuff.a -lX11 ../../ode/src/.libs/libode.a -lGLU -lGL -lm -lpthread
+g++ -DHAVE_CONFIG_H -I. -I../../ode/src  -I../../include -I../../include -DDRAWSTUFF_TEXTURE_PATH="\"/home/connor/Documents/ode-0.13/drawstuff/textures\"" -DdTRIMESH_ENABLED   -pg -MT uss_test5.o -MD -MP -MF .deps/uss_test5.Tpo -c -o uss_test5.o uss_test5.cpp
+mv -f .deps/uss_test5.Tpo .deps/uss_test5.Po
+/bin/bash ../../libtool  --tag=CXX   --mode=link g++  -pg     -o uss_test5 uss_test5.o ../../drawstuff/src/libdrawstuff.la ../../ode/src/libode.la -lGLU -lGL  -lm  -lpthread
+libtool: link: g++ -pg -o uss_test5 uss_test5.o  ../../drawstuff/src/.libs/libdrawstuff.a -lX11 ../../ode/src/.libs/libode.a -lGLU -lGL -lm -lpthread
+g++ -DHAVE_CONFIG_H -I. -I../../ode/src  -I../../include -I../../include -DDRAWSTUFF_TEXTURE_PATH="\"/home/connor/Documents/ode-0.13/drawstuff/textures\"" -DdTRIMESH_ENABLED   -pg -MT uss_test6.o -MD -MP -MF .deps/uss_test6.Tpo -c -o uss_test6.o uss_test6.cpp
+mv -f .deps/uss_test6.Tpo .deps/uss_test6.Po
+/bin/bash ../../libtool  --tag=CXX   --mode=link g++  -pg     -o uss_test6 uss_test6.o ../../drawstuff/src/libdrawstuff.la ../../ode/src/libode.la -lGLU -lGL  -lm  -lpthread
+libtool: link: g++ -pg -o uss_test6 uss_test6.o  ../../drawstuff/src/.libs/libdrawstuff.a -lX11 ../../ode/src/.libs/libode.a -lGLU -lGL -lm -lpthread
