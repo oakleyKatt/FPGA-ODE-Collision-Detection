@@ -1,0 +1,162 @@
+C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/control_unit.v {1 {vlog -work work -stats=none {C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM\Simulation_Memory\control_unit.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/adder.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/adder.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/approx_fp_sqrt.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/approx_fp_sqrt.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module approx_fp_sqrt
+
+Top level modules:
+	approx_fp_sqrt
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/jtag_tx.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/jtag_tx.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module jtag_tx
+
+Top level modules:
+	jtag_tx
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/jtag_rxtx_rdy.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/jtag_rxtx_rdy.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module jtag_rxtx_rdy
+
+Top level modules:
+	jtag_rxtx_rdy
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/toplevel.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/toplevel.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module toplevel
+
+Top level modules:
+	toplevel
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/myjtag.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/myjtag.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module myjtag
+
+Top level modules:
+	myjtag
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/jtag_debug.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/jtag_debug.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module jtag_debug
+
+Top level modules:
+	jtag_debug
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/memoryController.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/memoryController.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module memoryController
+
+Top level modules:
+	memoryController
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/DistanceCalc.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/DistanceCalc.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module dCalcPointsDistance3
+
+Top level modules:
+	dCalcPointsDistance3
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/jtag_tx_rdy.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/jtag_tx_rdy.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module jtag_tx_rdy
+
+Top level modules:
+	jtag_tx_rdy
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/ram_sp_sr_sw.v {1 {vlog -work work -stats=none {C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM\Simulation_Memory\ram_sp_sr_sw.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ram_sp_sr_sw
+
+Top level modules:
+	ram_sp_sr_sw
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/divider.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/divider.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module divider
+
+Top level modules:
+	divider
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/ram_sp_sr_sw_7_outputs.v {1 {vlog -work work -stats=none {C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM\Simulation_Memory\ram_sp_sr_sw_7_outputs.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ram_sp_sr_sw_7_outputs
+
+Top level modules:
+	ram_sp_sr_sw_7_outputs
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/multiply.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/multiply.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/Verilog1.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/Verilog1.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module divider2
+
+Top level modules:
+	divider2
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/sqrt.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/sqrt.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module sqrt
+
+Top level modules:
+	sqrt
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/dCollideSpheres.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/dCollideSpheres.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module dCollideSpheres
+
+Top level modules:
+	dCollideSpheres
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/jtag_rxtx.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/jtag_rxtx.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module jtag_rxtx
+
+Top level modules:
+	jtag_rxtx
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/add3.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/add3.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module add3
+
+Top level modules:
+	add3
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/DCOLLIDE_INOUT_MEM.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/DCOLLIDE_INOUT_MEM.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module DCOLLIDE_INOUT_MEM
+
+Top level modules:
+	DCOLLIDE_INOUT_MEM
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/rst_Ctrl.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/rst_Ctrl.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module rst_Ctrl
+
+Top level modules:
+	rst_Ctrl
+
+} {} {}} C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/dCalcVectorLength3.v {1 {vlog -work work -stats=none C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory/dCalcVectorLength3.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module dCalcVectorLength3
+
+Top level modules:
+	dCalcVectorLength3
+
+} {} {}}

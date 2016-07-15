@@ -1,0 +1,356 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_5STAGES_PIPELINE_INOUT_MEM/Simulation_Memory
+vadd3
+Z0 !s110 1468597606
+!i10b 1
+!s100 oabAf0<3Yn@zDggk^0oFo2
+Ii>c9gBK_H2IV8k[okf1h80
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation
+w1465502952
+8C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/add3.v
+FC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/add3.v
+L0 1
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+!s108 1468597605.000000
+!s107 C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/add3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/add3.v|
+!i113 1
+Z4 o-work work
+vadder
+R0
+!i10b 1
+!s100 mW6NN@i>lkK@7KCUb`WcO0
+I>AQ[7B;iI0d6n16S`g7dC1
+R1
+R2
+w1465570720
+8C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/adder.v
+FC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/adder.v
+L0 6
+R3
+r1
+!s85 0
+31
+!s108 1468597606.000000
+!s107 C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/adder.v|
+!i113 1
+R4
+vapprox_fp_sqrt
+!s110 1468597607
+!i10b 1
+!s100 Ijf4RT:>Wz9HUa[fcd@n<1
+IPdaQZ[@AK0K0d`13b[KHE3
+R1
+R2
+w1466612229
+8C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/approx_fp_sqrt.v
+FC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/approx_fp_sqrt.v
+L0 23
+R3
+r1
+!s85 0
+31
+!s108 1468597607.000000
+!s107 C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/approx_fp_sqrt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/approx_fp_sqrt.v|
+!i113 1
+R4
+vcontrol_unit
+!s110 1468598495
+!i10b 1
+!s100 Y9hUU9hbReYSFBI[3e]^n1
+Iz@n<HnDcmTh3H37I0GT=_1
+R1
+R2
+w1468598487
+8C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\control_unit.v
+FC:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\control_unit.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1468598495.000000
+!s107 C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\control_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\control_unit.v|
+!i113 1
+R4
+vdCalcPointsDistance3
+!s110 1468597612
+!i10b 1
+!s100 oCVQ]ZFfT;Y[Fb1M=5SIR1
+IA7O?PD2kWHm1g]R_Y;KLf0
+R1
+R2
+w1465584262
+8C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/DistanceCalc.v
+FC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/DistanceCalc.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1468597612.000000
+!s107 C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/DistanceCalc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/DistanceCalc.v|
+!i113 1
+R4
+nd@calc@points@distance3
+vdCalcVectorLength3
+!s110 1468597609
+!i10b 1
+!s100 1HiOX@A3jdWMZ>Sj35KZJ2
+Il_QYiP_fo8[Q7ReI0BB010
+R1
+R2
+w1466617766
+8C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/dCalcVectorLength3.v
+FC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/dCalcVectorLength3.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1468597609.000000
+!s107 C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/dCalcVectorLength3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/dCalcVectorLength3.v|
+!i113 1
+R4
+nd@calc@vector@length3
+vDCOLLIDE_INOUT_MEM
+!s110 1468597610
+!i10b 1
+!s100 ^Y1QmKfm4d[BJgeR<BYG53
+IU6^bUP[S22^Z;6DIUh^jl2
+R1
+R2
+w1468597598
+8C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\DCOLLIDE_INOUT_MEM.v
+FC:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\DCOLLIDE_INOUT_MEM.v
+L0 6
+R3
+r1
+!s85 0
+31
+!s108 1468597610.000000
+!s107 C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\DCOLLIDE_INOUT_MEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\DCOLLIDE_INOUT_MEM.v|
+!i113 1
+R4
+n@d@c@o@l@l@i@d@e_@i@n@o@u@t_@m@e@m
+vdCollideSpheres
+!s110 1468597611
+!i10b 1
+!s100 V<=ZM;]NH1>n4:PlE5YaZ2
+Iho1zadO9Yb7Q3X4S3INY33
+R1
+R2
+w1468594562
+8C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/dCollideSpheres.v
+FC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/dCollideSpheres.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1468597611.000000
+!s107 C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/dCollideSpheres.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/dCollideSpheres.v|
+!i113 1
+R4
+nd@collide@spheres
+vdivider
+!s110 1468597613
+!i10b 1
+!s100 @@:Ei`]WFkjJ`_c^E`FO=2
+I>J[mZaOC?fjL=8GX0nm^63
+R1
+R2
+w1465590656
+8C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/divider.v
+FC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/divider.v
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1468597613.000000
+!s107 C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/divider.v|
+!i113 1
+R4
+vdivider2
+!s110 1468597620
+!i10b 1
+!s100 ekoEn^?eg]bg[YEJh<R^k3
+I2]621`DdhDAQnR@9kFHQl1
+R1
+R2
+w1465839000
+8C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/Verilog1.v
+FC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/Verilog1.v
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1468597620.000000
+!s107 C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/Verilog1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/Verilog1.v|
+!i113 1
+R4
+vmemoryController
+!s110 1468597614
+!i10b 1
+!s100 H<;b@<b639_bHo<c6jVZA1
+ImbTbH@Z]Z7WV]2gkW50SK0
+R1
+R2
+w1467744956
+8C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/memoryController.v
+FC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/memoryController.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1468597614.000000
+!s107 C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/memoryController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/memoryController.v|
+!i113 1
+R4
+nmemory@controller
+vmultiplier
+!s110 1468597615
+!i10b 1
+!s100 Nm@K2hS[B3DTEf1`X^aBY2
+I_<=h<l^MkzLncblG2OH1Q1
+R1
+R2
+w1465569719
+8C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/multiply.v
+FC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/multiply.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1468597615.000000
+!s107 C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/multiply.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/multiply.v|
+!i113 1
+R4
+vram_sp_sr_sw
+!s110 1468599507
+!i10b 1
+!s100 E[aG<fD350`TmVDIlGgYd3
+I>Nh@;IQ3=nJTNj]]b;V>Z3
+R1
+R2
+w1468599497
+8C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\ram_sp_sr_sw.v
+FC:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\ram_sp_sr_sw.v
+L0 7
+R3
+r1
+!s85 0
+31
+!s108 1468599506.000000
+!s107 C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\ram_sp_sr_sw.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\ram_sp_sr_sw.v|
+!i113 1
+R4
+vram_sp_sr_sw_7_outputs
+!s110 1468598496
+!i10b 1
+!s100 njNl_3kjOK`nA;fd9lGj;1
+I;JiHbS=?BTcakQC[47T0h2
+R1
+R2
+w1468598440
+8C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\ram_sp_sr_sw_7_outputs.v
+FC:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\ram_sp_sr_sw_7_outputs.v
+L0 7
+R3
+r1
+!s85 0
+31
+!s108 1468598496.000000
+!s107 C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\ram_sp_sr_sw_7_outputs.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Fredy\Desktop\Summer_Project\DCOLLIDE_INOUT_MEM\Simulation\ram_sp_sr_sw_7_outputs.v|
+!i113 1
+R4
+vrst_Ctrl
+!s110 1468597618
+!i10b 1
+!s100 ;Vo9H19zAALnOl40=S9o23
+I;HgQLoY6zVLBXnj;KFBlg0
+R1
+R2
+w1467826723
+8C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/rst_Ctrl.v
+FC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/rst_Ctrl.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1468597617.000000
+!s107 C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/rst_Ctrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/rst_Ctrl.v|
+!i113 1
+R4
+nrst_@ctrl
+vsqrt
+Z5 !s110 1468597619
+!i10b 1
+!s100 CCC0OzD>]hQ;9gC@WLjIT3
+I8l>AXI8F:kzL@T_hjH15D2
+R1
+R2
+w1466012715
+8C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/sqrt.v
+FC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/sqrt.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1468597618.000000
+!s107 C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/sqrt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/sqrt.v|
+!i113 1
+R4
+vtoplevel
+R5
+!i10b 1
+!s100 27zCf3:3?RNd[5dE0lbeH1
+IQBV?YUGRfecEijXVa38lz0
+R1
+R2
+w1468353425
+8C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/toplevel.v
+FC:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/toplevel.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1468597619.000000
+!s107 C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/toplevel.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Fredy/Desktop/Summer_Project/DCOLLIDE_INOUT_MEM/Simulation/toplevel.v|
+!i113 1
+R4
