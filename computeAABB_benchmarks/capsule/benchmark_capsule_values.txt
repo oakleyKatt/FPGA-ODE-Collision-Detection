@@ -1,0 +1,157 @@
+BENCHMARK 0:
+x: -0.477204
+y: 0.314474
+z: 2.192504
+radius: 0.286736
+lz: 0.109339
+R[2]: 0.939727
+R[6]: 0.333191
+R[10]: 0.076794
+[0]: -0.815314
+[1]: -0.139094
+[2]: 0.009522
+[3]: 0.619425
+[4]: 1.901570
+[5]: 2.483438
+-------
+RESULTS
+-------
+Computer(.cpp file, data from 100 samples (# times code was run))
+        Clock cycles
+        min: 109
+        max: 5460
+        avg: 348
+FPGA
+        Clock Cycles: 168
+===================
+BENCHMARK 1:
+x: 0.037910
+y: -0.142107
+z: 2.240056
+radius: 0.065457
+lz: 0.231132
+R[2]: 0.146321
+R[6]: -0.046218
+R[10]: 0.988157
+[0]: -0.044458
+[1]: 0.120277
+[2]: -0.212906
+[3]: -0.071308
+[4]: 2.060401
+[5]: 2.419710
+-------
+RESULTS
+-------
+Computer(.cpp file, data from 100 samples (# times code was run))
+        Clock cycles
+        min: 115
+        max: 1132
+        avg: 268
+FPGA
+        Clock Cycles: 164
+===================
+BENCHMARK 2:
+x: -0.675273
+y: 0.065403
+z: 0.875943
+radius: 0.139732
+lz: 0.418129
+R[2]: -0.067819
+R[6]: -0.807117
+R[10]: 0.586483
+[0]: -0.829183
+[1]: -0.521362
+[2]: -0.243069
+[3]: 0.373875
+[4]: 0.613598
+[5]: 1.138288
+-------
+RESULTS
+-------
+Computer(.cpp file, data from 100 samples (# times code was run))
+        Clock cycles
+        min: 120
+        max: 1505
+        avg: 274
+FPGA
+        Clock Cycles: 165
+===================
+BENCHMARK 3:
+x: -0.049718
+y: -0.987676
+z: 0.245971
+radius: 0.249181
+lz: 0.468783
+R[2]: -0.999869
+R[6]: -0.014819
+R[10]: -0.006468
+[0]: -0.533260
+[1]: 0.433824
+[2]: -1.240330
+[3]: -0.735021
+[4]: -0.004726
+[5]: 0.496669
+-------
+RESULTS
+-------
+Computer(.cpp file, data from 100 samples (# times code was run))
+        Clock cycles
+        min: 110
+        max: 5250
+        avg: 357
+FPGA
+        Clock Cycles: 172
+===================
+BENCHMARK 4:
+x: 0.335921
+y: -0.100597
+z: 0.114062
+radius: 0.109017
+lz: 0.239283
+R[2]: 0.574498
+R[6]: 0.816870
+R[10]: 0.051727
+[0]: 0.158171
+[1]: 0.513672
+[2]: -0.307346
+[3]: 0.106152
+[4]: -0.001144
+[5]: 0.229268
+-------
+RESULTS
+-------
+Computer(.cpp file, data from 100 samples (# times code was run))
+        Clock cycles
+        min: 123
+        max: 1443
+        avg: 327
+FPGA
+        Clock Cycles: 168
+===================
+BENCHMARK 5:
+x: 0.196553
+y: -0.659070
+z: 2.344741
+radius: 0.057920
+lz: 0.411065
+R[2]: 0.608642
+R[6]: 0.006199
+R[10]: 0.793421
+[0]: 0.013538
+[1]: 0.379568
+[2]: -0.718264
+[3]: -0.599876
+[4]: 2.123747
+[5]: 2.565734
+-------
+RESULTS
+-------
+Computer(.cpp file, data from 100 samples (# times code was run))
+        Clock cycles
+        min: 102
+        max: 1722
+        avg: 324
+FPGA
+        Clock Cycles: 167
+===================
+
